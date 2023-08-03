@@ -19,7 +19,6 @@ public class Main {
         System.out.println("Diferença = " + Result);
 
 
-
-
+          sc.close();
     }
 }

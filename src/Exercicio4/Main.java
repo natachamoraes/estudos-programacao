@@ -18,5 +18,6 @@ public class Main {
         System.out.printf("Number = %.0f%n", NúmeroDoFuncionário);
         System.out.printf("salary = U$ %.2f", SalárioDoFuncionário);
 
+                sc.close();
     }
 }
